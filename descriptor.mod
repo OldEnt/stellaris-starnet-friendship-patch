@@ -1,4 +1,4 @@
-name="~ StarNet Friendship Patch"
+version="1"
 tags={
 	"Gameplay"
 	"Fixes"
@@ -8,8 +8,9 @@ tags={
 }
 dependencies={
 	"~ Starnet AI"
+	"StarTech AI"
 }
-picture="thumbnail.png"
-supported_version="3.0.*"
-path="C:/Users/slv/Documents/Paradox Interactive/Stellaris/mod/starfriendship"
+name="~ StarNet Friendship Patch"
+supported_version="3.4.*"
+picture="thumbnails.png"
 remote_file_id="1724817916"
