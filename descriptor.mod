@@ -7,10 +7,10 @@ tags={
 	"AI"
 }
 dependencies={
-	"~ Starnet AI"
+	"~ StarNet AI"
 	"StarTech AI"
 }
 name="~ StarNet Friendship Patch"
-supported_version="3.4.*"
 picture="thumbnails.png"
+supported_version="3.4.*"
 remote_file_id="1724817916"
