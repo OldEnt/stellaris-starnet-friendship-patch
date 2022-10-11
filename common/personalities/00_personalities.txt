@@ -1787,7 +1787,7 @@ imperial_origin_overlord_ai = {
 
 	behaviour = {
 		conqueror = no
-		subjugator = no
+		subjugator = yes
 		liberator = no
 		opportunist = no
 		slaver = no
